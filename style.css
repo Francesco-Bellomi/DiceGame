@@ -1,0 +1,28 @@
+h1 {
+    font-size: 60px;
+    letter-spacing: 10px;
+    font-size: bold !important;
+    color: orangered;
+}
+
+h2 {
+    letter-spacing: 10px;
+    font-size: bold;
+    color: orangered;
+}
+
+body {
+    background-color: black;
+}
+
+.flex {
+    display: flex;
+}
+
+.hide {
+    visibility: hidden;
+}
+
+.button {
+    background-color: orangered;
+}
